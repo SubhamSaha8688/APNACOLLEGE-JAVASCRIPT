@@ -16,3 +16,22 @@ console.log("a * b =",a*b);
 console.log("a / b =",a/b);
 
 console.log("a % b =",a%b);
+
+console.log("a ** b =",a**b);
+
+//UNARY operator
+
+
+
+//comparison operator
+
+//logical operator
+
+//conditional Statement
+
+let color;
+let age=20;
+if (age >= 18){
+    color = "black";
+    console.log(color);
+}
